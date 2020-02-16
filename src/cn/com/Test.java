@@ -5,6 +5,5 @@ public class Test {
 		    System.out.println("fuckyou");
 	        System.out.println("fuckyou");
 	        System.out.println("fuckyou");
-	        System.out.println("ssssssssssssssssssssss");
 	}
 }
