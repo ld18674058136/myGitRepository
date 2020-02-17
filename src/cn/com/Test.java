@@ -6,6 +6,10 @@ public class Test {
 	    System.out.println("fuck  th");
 	    System.out.println("fuck  th");
 	    System.out.println("fuck  th");
+		    System.out.println("fuck");
+	    System.out.println("fuck");
+	    System.out.println("fuck");
+	    System.out.println("fuckb");
 		   
 	}
 }
