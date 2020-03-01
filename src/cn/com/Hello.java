@@ -2,10 +2,12 @@ package cn.com;
 
 public class Hello {
 	
-	private String name="wangwu";
+	private String name="sb";
 	
 	
-	private String school;
+	private String schools;
+	
+
 	
   
 }
