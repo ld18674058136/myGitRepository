@@ -5,11 +5,7 @@ public class Test {
 		  System.out.println("Test_1");
 		  System.out.println("Test_1");
 		  System.out.println("Test_1");
-		  
-		  System.out.println("Test.main()");
-		  System.out.println("Test_develop");
-		  System.out.println("Test_develop");
-		  System.out.println("Test_develop");
+
 
 	}
 }
